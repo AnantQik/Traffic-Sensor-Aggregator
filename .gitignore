@@ -1,2 +1,5 @@
-build
+# Ignore the build folder
+build/
+
+# Ignore the traffic log file
 traffic_log_improved.txt
